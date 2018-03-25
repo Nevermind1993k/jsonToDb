@@ -1,6 +1,6 @@
 **JSON to DB project**
 
-Application represents a simple set of REST web service that provide data regarding. Data is stored in MySQL.
+Application allow you to download data from JSON into your DB. Data is stored in MySQL.
 
 **To start it you will need to:**
 1. Have MySQL server installed on your machine
