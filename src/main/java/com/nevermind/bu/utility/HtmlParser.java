@@ -2,7 +2,6 @@ package com.nevermind.bu.utility;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.nevermind.bu.entity.Data;
-import org.hibernate.mapping.Collection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
