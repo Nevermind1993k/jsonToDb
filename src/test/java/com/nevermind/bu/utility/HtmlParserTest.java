@@ -36,6 +36,5 @@ public class HtmlParserTest {
         String arrayOfData = resultingElements.get(0).html().substring(start, end + 1);
         String lastElement = "}";
         assertEquals(lastElement, arrayOfData.substring(arrayOfData.length() - 1));
-
     }
 }
