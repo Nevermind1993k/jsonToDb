@@ -1,8 +1,5 @@
 package com.nevermind.bu.exception;
 
-/**
- * Created by Oleksandr Ryzhkov on 04.11.2017.
- */
 public class GenericEngineException extends Exception {
     private String message;
 
